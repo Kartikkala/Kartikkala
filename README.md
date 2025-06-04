@@ -4,7 +4,6 @@
   A backend-focused full-stack developer who loves Linux, DevOps, and building tools that work <em>under the hood</em>.
 </p>
 
----
 
 ### 🚀 Currently working on
 
