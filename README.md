@@ -53,7 +53,7 @@
 - Debugging broken Linux systems
 - Reading source code
 - Creating things from scratch instead of relying on easy tools
-- Solving real-world problems with code (not buzzwords)
+- Solving real-world problems with code
 
 ---
 
