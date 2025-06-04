@@ -75,9 +75,12 @@
 
 ---
 
-### 🧠 Fun Facts
+### 📫 Let's Connect
 
-- I prefer Neovim over VS Code
-- My projects are built like production tools, not demos
-- I’m not chasing hype. I’m here to **understand and build**
+I'm open to collaborations, backend-heavy opportunities, or just nerding out about systems stuff.
+
+[![Twitter/X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/KARTIKKALA10)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_HANDLE](https://www.linkedin.com/in/kartikkala/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikkala10december@gmail.com)
+
 
