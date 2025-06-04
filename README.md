@@ -29,7 +29,7 @@
 
 ### 🛠 Tech Stack
 
-<p align="left">
+
 
 <!-- Languages -->
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -74,7 +74,7 @@
 <!-- Media / Custom -->
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 
-</p>
+
 
 
 ---
