@@ -4,7 +4,7 @@
   A backend-focused full-stack developer who loves Linux, DevOps, and building tools that work <em>under the hood</em>.
 </p>
 
-
+---
 
 ### 🚀 Currently working on
 
@@ -16,7 +16,7 @@
 - 📐 AI and neural networks from the ground up — starting with deep math
 - 🧠 Focused on *truly understanding* optimization algorithms, backprop, and low-level implementation in C++
 
-
+---
 
 ### 💬 Ask me about
 
@@ -25,7 +25,7 @@
 - Linux & system administration
 - DevOps: systemd, Jenkins, Docker
 
-
+---
 
 ### 🛠 Tech Stack
 
@@ -71,7 +71,7 @@
 
 </p>
 
-
+---
 
 ### ❤️ Things I Love
 
@@ -81,7 +81,7 @@
 - Creating things from scratch instead of relying on easy tools
 - Solving real-world problems with code
 
-
+---
 
 ### 🧠 Fun Facts
 
