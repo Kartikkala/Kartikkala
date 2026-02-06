@@ -2,6 +2,8 @@
 
 <p align="center">
   A backend-focused full-stack developer who loves Linux, DevOps, and building tools that work <em>under the hood</em>.
+  <br>
+  <strong>🌐 Explore my work at <a href="https://kartikkala.tech">kartikkala.tech</a></strong>
 </p>
 
 
